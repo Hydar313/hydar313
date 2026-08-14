@@ -32,7 +32,7 @@ I build polished web platforms, native mobile apps, and AI-powered products. Mos
 <div align="center">
 <img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/section-stack.svg" width="100%" alt="Stack"/>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,swift,kotlin,reactnative,postgres,supabase,firebase,docker,aws,tailwind,figma,git" alt="Languages, frameworks, and tools"/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,swift,kotlin,html,css,react,nextjs,tailwind,nodejs,express,graphql,postgres,mongodb,redis,sqlite,supabase,firebase,prisma,docker,aws,cloudflare,vercel,kubernetes,electron,androidstudio,apple,flutter,vite,jest,redux,fastapi,ai,github,githubactions,vscode,figma,postman,cypress,nginx,sentry,git,linux,bash&perline=9" alt="Languages, frameworks, and tools"/>
 </div>
 
 <div align="center">
