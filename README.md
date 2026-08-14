@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/header.svg" width="100%" alt="Hidar"/>
+<img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/header.svg?v=2" width="100%" alt="Hidar"/>
 
 <br/>
 
