@@ -50,7 +50,7 @@ Founder of [**Karar Tech**](https://karartech.com). I build polished web platfor
 <td width="16.66%" align="center" valign="top">
 
 <a href="https://alkisafoundation.org/">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/al-kisa.png" width="76" alt="Al-Kisa"/>
+  <img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/projects/icons/al-kisa.png" width="76" alt="Al-Kisa"/>
 </a>
 
 **Al-Kisa**  
@@ -64,7 +64,7 @@ Muslim companion app
 <td width="16.66%" align="center" valign="top">
 
 <a href="https://www.absanetwork.com/">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/ABSA.png" width="76" alt="ABSA Network"/>
+  <img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/projects/icons/ABSA.png" width="76" alt="ABSA Network"/>
 </a>
 
 **ABSA Network**  
@@ -78,7 +78,7 @@ Students network worldwide
 <td width="16.66%" align="center" valign="top">
 
 <a href="https://apps.apple.com/app/salah-journal/id6747736982">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/salah-journal.png" width="76" alt="Salah Journal"/>
+  <img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/projects/icons/salah-journal.png" width="76" alt="Salah Journal"/>
 </a>
 
 **Salah Journal**  
@@ -92,7 +92,7 @@ Missed prayer tracker
 <td width="16.66%" align="center" valign="top">
 
 <a href="https://github.com/karartech/ScribeClock-Desktop-Releases">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/scribe-clock.png" width="76" alt="Scribe Clock"/>
+  <img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/projects/icons/scribe-clock.png" width="76" alt="Scribe Clock"/>
 </a>
 
 **Scribe Clock**  
@@ -106,7 +106,7 @@ Desktop time-tracking
 <td width="16.66%" align="center" valign="top">
 
 <a href="https://apps.apple.com/app/shia+/id1511772373">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/ShiaPlus.png" width="76" alt="Shia+"/>
+  <img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/projects/icons/ShiaPlus.png" width="76" alt="Shia+"/>
 </a>
 
 **Shia+**  
@@ -120,7 +120,7 @@ Prayer and Dua guide
 <td width="16.66%" align="center" valign="top">
 
 <a href="https://karartech.com">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/karartech-web.png" width="76" alt="Karar Tech Web"/>
+  <img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/assets/projects/icons/karartech-web.png" width="76" alt="Karar Tech Web"/>
 </a>
 
 **Karar Tech Web**  
@@ -138,20 +138,20 @@ Company portfolio site
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karartech/karartech/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/Hydar313/hydar313/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
 
 <br/>
 
-<img src="https://github-stats-alpha.vercel.app/api?username=karartech&theme=radical&hide_border=true&show_icons=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&custom_title=GitHub%20Stats" height="165" alt="GitHub stats"/>
-<img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=karartech&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&layout=compact&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=Hydar313&theme=radical&hide_border=true&show_icons=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=ffffff&custom_title=GitHub%20Stats" height="165" alt="GitHub stats"/>
+<img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Hydar313&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff&layout=compact&langs_count=8" height="165" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=karartech&theme=dark&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=06b6d4&currStreakLabel=6366f1&border_radius=10" alt="GitHub streak" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=Hydar313&theme=dark&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=06b6d4&currStreakLabel=6366f1&border_radius=10" alt="GitHub streak" height="180"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/karartech/karartech/output/dist/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Hydar313/hydar313/output/dist/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
@@ -168,7 +168,7 @@ Company portfolio site
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=karartech&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Hydar313&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
 
 <br/><br/>
 
